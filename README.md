@@ -1,6 +1,6 @@
 # JavaScript Interview Questions & Answers
 
-> Click :star:if you like the project and connect with us on > [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ashutoshkumaraashu/) or [![X](https://img.shields.io/badge/X-Follow-black?logo=x&style=flat-square)](https://x.com/warrior_aashuu)  [@aashuu](https://www.devdisplay.org/profile/codeaashu) for more updates. Coding questions available [here](#coding-exercise). Check [DataStructures and Algorithms](https://github.com/codeaashu/datastructures-algorithms) for DSA related questions and [ECMAScript](https://github.com/codeaashu/ECMAScript-features) for all ES features.).
+> Click :star:if you like the project and connect with us on [@aashuu](https://www.devdisplay.org/profile/codeaashu) for more updates. Coding questions available [here](#coding-exercise). Check [DataStructures and Algorithms](https://github.com/codeaashu/datastructures-algorithms) for DSA related questions and [ECMAScript](https://github.com/codeaashu/ECMAScript-features) for all ES features.).
 
 ---
 
