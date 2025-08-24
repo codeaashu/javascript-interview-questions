@@ -1,6 +1,6 @@
 # JavaScript Interview Questions & Answers
 
-> Click :star:if you like the project and follow [@warrior_aashuu](https://twitter.com/warrior_aashuu) for more updates. Coding questions available [here](#coding-exercise). Check [DataStructures and Algorithms](https://github.com/codeaashu/datastructures-algorithms) for DSA related questions and [ECMAScript](https://github.com/codeaashu/ECMAScript-features) for all ES features.).
+> Click :star:if you like the project then follow us on 𝕏 [@warrior_aashuu](https://twitter.com/warrior_aashuu) for more updates. Coding questions available [here](#coding-exercise). Check [DataStructures and Algorithms](https://github.com/codeaashu/datastructures-algorithms) for DSA related questions and [ECMAScript](https://github.com/codeaashu/ECMAScript-features) for all ES features.).
 
 ---
 
